@@ -1,2 +1,2 @@
-# Python-assignment for the fsds batch [INEURON]
+# Python-assignment for the FSDS batch [INEURON]
 Python assignments submitted for the scrrening interview 
